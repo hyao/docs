@@ -1,8 +1,12 @@
-docs
-====
+**Ansible文档**
 
-docs on various foss projects; 开源软件文档，包括ansible，django-cms等
 
-文档主页
---------
-https://github.com/hyao/docs/wiki
+* ansible 简介 https://github.com/hyao/ansible/blob/devel/README_zh.md
+* ansible Playbooks https://github.com/hyao/ansible-docs/blob/master/zh/playbooks.rst
+
+
+**django CMS文档**
+
+* django-cms 安装指南 https://github.com/hyao/django-cms/blob/develop/zh_docs/getting_started/installation.rst
+* django-cms入门教程 https://github.com/hyao/django-cms/blob/develop/zh_docs/getting_started/tutorial.rst
+
